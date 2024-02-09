@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipan_2030" target="blank"><img src="https://img.shields.io/twitter/follow/dipan_2030?logo=twitter&style=for-the-badge" alt="dipan_2030" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs ,Typescript**
+- 🌱 I’m currently learning **Angular ,Typescript**
 
 - 💬 Ask me about **React,Javascript**
 
